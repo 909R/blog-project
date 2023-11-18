@@ -1,0 +1,238 @@
+@media only screen and (max-width: 1200px) {
+    .parents-topbar .top-ber-2 ul li {
+        padding-left: 50px;
+    }
+    
+  }
+
+
+/* ----------------------------1024px-------------------------------- */
+
+@media only screen and (max-width:1024px) {
+    .topber-section {
+        padding-top: 80px;
+    }
+
+    .parents-topbar {
+       
+        grid-template-columns: 1fr;
+    }
+    
+    .parents-topbar .top-ber-2 {
+       
+        padding: 40px 0 40px 0;
+    }
+    .parents-topbar .top-ber-2 ul li a {
+      
+        font-size: 20px;
+    }
+    .boxbar-section .boxbar-parents img{
+        width: 250px;
+    }
+    .find-outfit .find-outfit-parents .star p {
+       
+        padding-top: 50px;
+    }
+    .protrait .protrait-parents p {
+        font-size: 16px;
+        
+    }
+
+}
+
+
+/* -------------------------768px------------------------ */
+
+@media only screen and (max-width: 768px) {
+
+    .topber-section {
+        padding-top: 70px;
+    }
+    .topber-section .logo-topbar img{
+        width: 200px;
+    }
+    
+    .parents-topbar .top-ber-2 ul li a {
+      
+        font-size: 16px;
+    }
+    .parents-topbar .top-ber-2 {
+        padding: 30px 0 30px 0;
+    }
+    
+    .boxbar-section  pre {
+       
+        font-size: 25px;
+      
+    }
+    .welcome-to-section .welcome-to-parents p{
+        font-size: 80px;
+      
+    }
+    .find-outfit .find-outfit-parents .star {
+      
+        flex-direction: column;
+        align-items: center;
+    }
+    .find-outfit .find-outfit-parents .star img{
+        width: 200px;
+        padding: 25px;
+    }
+    .find-outfit .find-outfit-parents .star p {
+       
+        padding-top: 35px;
+        font-size: 30px;
+    }
+    .find-outfit .find-outfit-parents .img img {
+        width: 400px;
+       
+    }
+    .protrait .protrait-parents h1 {
+        font-size: 30px;
+       
+    }
+    .protrait .protrait-parents p {
+        font-size: 14px;
+        
+    }
+
+
+    
+}
+
+
+/* 0-------------425px---------------*/
+
+@media only screen and (max-width: 425px) {
+    .topber-section {
+        padding-top: 50px;
+    }
+    .topber-section .logo-topbar img{
+        width: 180px;
+    }
+    .parents-topbar .top-ber-2 {
+        padding: 20px 0 20px 0;
+    }
+    .parents-topbar .top-ber-2 ul li {
+        padding-left: 30px;
+    }
+    .parents-topbar .top-ber-2 ul li a {
+      
+        font-size: 14px;
+    }
+    .boxbar-section  pre {
+       
+        font-size: 20px;
+      
+    }
+    .welcome-to-section .welcome-to-parents p{
+        font-size: 60px;
+        padding: 25px 0 ;
+      
+    }
+    .welcome-to-section .welcome-to-parents button {
+       
+        padding: 10px 30px;
+       
+    }
+    .find-outfit .find-outfit-parents .star p {
+       
+        padding-top: 30px;
+        font-size: 25px;
+    }
+    .find-outfit .find-outfit-parents .img img {
+        width: 300px;
+       
+    }
+    .protrait .protrait-parents h1 {
+        font-size: 25px;
+       
+    }
+    .protrait .protrait-parents p {
+        font-size: 12px;
+        
+    }
+
+
+
+    
+    
+}
+
+
+/* ----------------------------375px------------------------ */
+@media only screen and (max-width:375px) {
+    .topber-section {
+        padding-top: 40px;
+    }
+    .topber-section .logo-topbar img{
+        width: 140px;
+    }
+
+    .boxbar-section  pre {
+       
+        font-size: 16px;
+      
+    }
+    .welcome-to-section .welcome-to-parents p{
+        font-size: 50px;
+        padding: 20px 0 ;
+      
+    }
+    .find-outfit .find-outfit-parents .star p {
+       
+        padding-top: 25px;
+        font-size: 25px;
+    }
+    .find-outfit .find-outfit-parents .img img {
+        width: 350px;
+       
+    }
+    .protrait .protrait-parents h1 {
+        font-size: 20px;
+       
+    }
+    .protrait .protrait-parents p {
+        font-size: 10px;
+        
+    }
+
+
+    
+}
+
+/* ------------------------320px------------------- */
+
+@media only screen and (max-width:320px) {
+    .topber-section {
+        padding-top: 30px;
+    }
+    .parents-topbar .top-ber-2 ul li {
+        padding-left: 15px;
+    }
+    
+    .boxbar-section  pre {
+       
+        font-size: 14px;
+      
+    }
+    .welcome-to-section .welcome-to-parents p{
+        padding: 15px 0 ;
+        font-size: 40px;
+      
+    }
+    .find-outfit .find-outfit-parents .star p {
+       
+        padding-top: 20px;
+        font-size: 20px;
+    }
+    .find-outfit .find-outfit-parents .img img {
+        width: 300px;
+       
+    }
+    .protrait .protrait-parents h1 {
+        font-size: 20px;
+       
+    }
+
+}

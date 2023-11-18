@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    max-width: 1250px;
+    padding: 0 20px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 100%;
+
+}
+/* ----------------------topbar--------------- */
+.topber-section{
+    padding-top:90px;
+}
+
+.parents-topbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.topber-section .logo-topbar img{
+    width: 240px;
+}
+
+.parents-topbar .top-ber-2 {
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 39px 0 40px 0;
+    list-style: none;
+}
+
+.parents-topbar .top-ber-2 ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.parents-topbar .top-ber-2 ul li {
+    padding-left: 88px;
+} 
+.parents-topbar .top-ber-2 ul li a {
+  
+    text-decoration: none;
+    color: #0d0d8d;
+}
+.parents-topbar .top-ber-2 ul li a:hover{
+    background-color: rgb(144, 219, 213);
+    border-radius: 10px;
+    padding: 3px 7px;
+
+}
+
+/* ----------------------boxbar------------------------- */
+
+.boxbar-section .boxbar-parents {
+    text-align: end;
+}
+.boxbar-section .boxbar-parents img{
+
+    width: 350px;
+}
+
+
+.boxbar-section  pre{
+    color: #9cb9db;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+/* -----------------welcome to------------- */
+
+.welcome-to-section .welcome-to-parents p{
+    font-size: 100px;
+    font-family: 'Vollkorn', serif;
+}
+.welcome-to-section .welcome-to-parents button {
+    background-color: #9ebbdd;
+    padding: 15px 50px;
+    border-radius: 20px;
+    border: none;
+}
+/* ----------------outfit------------- */
+
+.find-outfit{
+    /* padding: px 0 0 0; */
+}
+
+.find-outfit .find-outfit-parents .star {
+    display: flex;
+    justify-content: space-between;
+}
+
+.find-outfit .find-outfit-parents .star p {
+    font-size: 40px;
+    padding-top: 77px;
+}
+
+.find-outfit .find-outfit-parents .img img
+{
+    width: 600px;
+    height: auto;
+}
+
+/* ----------------------protrait-------------------- */
+
+.protrait{
+    padding-top: 20px;
+
+}
+
+.protrait .protrait-parents h1{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.protrait .protrait-parents p {
+    font-size: 20px;
+    padding: 10px 0 50px 0;
+    color: #515c73;
+}
